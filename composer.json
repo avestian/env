@@ -1,0 +1,21 @@
+{
+    "name": "avestian/env",
+    "description": "PHP Environment Manager",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Avestian\\Env\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuka Astersia",
+            "email": "yuka.astersia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    }
+}
